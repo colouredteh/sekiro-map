@@ -857,7 +857,7 @@
   },
   {
     "id": "1781017366465",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 7.25,
@@ -865,7 +865,7 @@
   },
   {
     "id": "1781017369773",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 12.16,
@@ -873,7 +873,7 @@
   },
   {
     "id": "1781017373169",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 10.29,
@@ -889,7 +889,7 @@
   },
   {
     "id": "1781017394352",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 25.32,
@@ -897,7 +897,7 @@
   },
   {
     "id": "1781017398154",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 32.43,
@@ -929,7 +929,7 @@
   },
   {
     "id": "1781017419904",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 25.13,
@@ -969,7 +969,7 @@
   },
   {
     "id": "1781017444086",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 26.39,
@@ -985,7 +985,7 @@
   },
   {
     "id": "1781017460905",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 29.37,
@@ -993,7 +993,7 @@
   },
   {
     "id": "1781017464721",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 31.45,
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "1781017471577",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 31.79,
@@ -1065,7 +1065,7 @@
   },
   {
     "id": "1781017506622",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 37.68,
@@ -1073,7 +1073,7 @@
   },
   {
     "id": "1781017509623",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 36.7,
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "1781017562759",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 42.5,
@@ -1193,7 +1193,7 @@
   },
   {
     "id": "1781017621941",
-    "name": "Unknown",
+    "name": "Prosthetic",
     "type": "prosthetic",
     "visited": false,
     "x": 62.31,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "1781017646875",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 74.64,
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "1781017677193",
-    "name": "Unknown",
+    "name": "Combat Art",
     "type": "combat-art",
     "visited": false,
     "x": 72.45,
