@@ -37,7 +37,7 @@ function Marker({ marker, onToggleVisited }) {
   return (
     <div
       className={`marker ${marker.visited ? 'visited' : ''}`}
-      style={{ left: marker.screenX, top: marker.screenY }}
+      style={{ left: marker.screenX, top: marker.screenY, zIndex: hovered ? 30 : 1 }}
     >
       <div
         className="marker-dot"
