@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "1781007253906",
+    "name": "Demon of Hatred",
+    "type": "boss",
+    "visited": false,
+    "x": 18.88,
+    "y": 74.6
+  },
+  {
+    "id": "1781007323194",
+    "name": "Samurai",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 30.1,
+    "y": 78.49
+  },
+  {
+    "id": "1781007380357",
+    "name": "Ogre",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 24.68,
+    "y": 65.17
+  },
+  {
+    "id": "1781007394559",
+    "name": "Glutton",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 21.38,
+    "y": 66.68
+  },
+  {
+    "id": "1781007418304",
+    "name": "Samurai",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 23.72,
+    "y": 61.55
+  },
+  {
+    "id": "1781007453970",
+    "name": "Gyoubu Masataka Oniwa",
+    "type": "boss",
+    "visited": false,
+    "x": 20.23,
+    "y": 45.1
+  },
+  {
+    "id": "1781007489386",
+    "name": "Bull",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 28.21,
+    "y": 33.56
+  },
+  {
+    "id": "1781007507519",
+    "name": "Samurai",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 32.25,
+    "y": 35.95
+  },
+  {
+    "id": "1781007522987",
+    "name": "Isshin, Sword Saint",
+    "type": "boss",
+    "visited": false,
+    "x": 27.22,
+    "y": 12.32
+  },
+  {
+    "id": "1781007537418",
+    "name": "Spear",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 40.81,
+    "y": 42.71
+  },
+  {
+    "id": "1781007543284",
+    "name": "Spear",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 41.35,
+    "y": 46.67
+  },
+  {
+    "id": "1781007560778",
+    "name": "Headless Ungo",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 34.09,
+    "y": 50.63
+  },
+  {
+    "id": "1781007581767",
+    "name": "Shadow",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 33.28,
+    "y": 70.23
+  },
+  {
+    "id": "1781007608938",
+    "name": "Headless Gokan",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 42.23,
+    "y": 72.96
+  },
+  {
+    "id": "1781007631748",
+    "name": "Sniper",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 41.39,
+    "y": 82.38
+  },
+  {
+    "id": "1781007657203",
+    "name": "Centipede",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 42.69,
+    "y": 90.44
+  },
+  {
+    "id": "1781007713112",
+    "name": "Shichimen",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 48.58,
+    "y": 57.12
+  },
+  {
+    "id": "1781007718477",
+    "name": "Shadow",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 42.69,
+    "y": 55.05
+  },
+  {
+    "id": "1781007742846",
+    "name": "Headless Ako",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 51.6,
+    "y": 38.04
+  },
+  {
+    "id": "1781007764366",
+    "name": "Elite",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 34.36,
+    "y": 7.39
+  },
+  {
+    "id": "1781007771380",
+    "name": "Shadow",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 42.79,
+    "y": 5.07
+  },
+  {
+    "id": "1781007777195",
+    "name": "Elite",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 43.3,
+    "y": 9.71
+  },
+  {
+    "id": "1781007787460",
+    "name": "Genichiro Ashina",
+    "type": "boss",
+    "visited": false,
+    "x": 50.57,
+    "y": 18.79
+  },
+  {
+    "id": "1781007791928",
+    "name": "Owl",
+    "type": "boss",
+    "visited": false,
+    "x": 54.93,
+    "y": 14.46
+  },
+  {
+    "id": "1781007794412",
+    "name": "Isshin Ashina",
+    "type": "boss",
+    "visited": false,
+    "x": 61.34,
+    "y": 10.44
+  },
+  {
+    "id": "1781007836343",
+    "name": "Sniper",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 60.29,
+    "y": 69.65
+  },
+  {
+    "id": "1781007841643",
+    "name": "Guardian Ape",
+    "type": "boss",
+    "visited": false,
+    "x": 60.44,
+    "y": 88.46
+  },
+  {
+    "id": "1781007873825",
+    "name": "Dual Apes",
+    "type": "boss",
+    "visited": false,
+    "x": 62.27,
+    "y": 61.57
+  },
+  {
+    "id": "1781007900925",
+    "name": "Shichimen",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 66.28,
+    "y": 61.66
+  },
+  {
+    "id": "1781007925804",
+    "name": "O'Rin",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 73.85,
+    "y": 78.47
+  },
+  {
+    "id": "1781007941522",
+    "name": "Corrupted Monk",
+    "type": "boss",
+    "visited": false,
+    "x": 76.92,
+    "y": 85.19
+  },
+  {
+    "id": "1781007951441",
+    "name": "True Monk",
+    "type": "boss",
+    "visited": false,
+    "x": 94.5,
+    "y": 76.57
+  },
+  {
+    "id": "1781007969422",
+    "name": "Headless Gaichin",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 74.1,
+    "y": 64.9
+  },
+  {
+    "id": "1781007974656",
+    "name": "Glutton",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 71.61,
+    "y": 67.5
+  },
+  {
+    "id": "1781007999072",
+    "name": "Knight",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 65.55,
+    "y": 33.48
+  },
+  {
+    "id": "1781008015104",
+    "name": "Centipede",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 67.88,
+    "y": 17.82
+  },
+  {
+    "id": "1781008027553",
+    "name": "Folding Screen Monkeys",
+    "type": "boss",
+    "visited": false,
+    "x": 76.87,
+    "y": 14.78
+  },
+  {
+    "id": "1781008053921",
+    "name": "Bull",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 76.69,
+    "y": 56.76
+  },
+  {
+    "id": "1781008065306",
+    "name": "Headless Yashi",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 84.89,
+    "y": 55.67
+  },
+  {
+    "id": "1781008078501",
+    "name": "Okami",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 90.02,
+    "y": 50.78
+  },
+  {
+    "id": "1781008125335",
+    "name": "Shichimen",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 86.78,
+    "y": 41.29
+  },
+  {
+    "id": "1781008148384",
+    "name": "Divine Dragon",
+    "type": "boss",
+    "visited": false,
+    "x": 91.18,
+    "y": 13.8
+  },
+  {
+    "id": "1781008173562",
+    "name": "Noble",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 67.19,
+    "y": 69.76
+  },
+  {
+    "id": "1781016117593",
+    "name": "Hidden Temple",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 8.59,
+    "y": 28.31
+  },
+  {
+    "id": "1781016127502",
+    "name": "Audience Chamber",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 11.3,
+    "y": 48.08
+  },
+  {
+    "id": "1781016134196",
+    "name": "Main Hall",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 4.2,
+    "y": 55.59
+  },
+  {
+    "id": "1781016145068",
+    "name": "Bamboo Thicket Slope",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 12.52,
+    "y": 57.06
+  },
+  {
+    "id": "1781016158714",
+    "name": "Estate Path",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 6.56,
+    "y": 70.3
+  },
+  {
+    "id": "1781016173330",
+    "name": "Dragonspring Hirata Estate",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 6.85,
+    "y": 82.1
+  },
+  {
+    "id": "1781016182848",
+    "name": "Dilapidated Temple",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 16.57,
+    "y": 87.78
+  },
+  {
+    "id": "1781016197130",
+    "name": "Ashina Outskirts",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 23.39,
+    "y": 84.78
+  },
+  {
+    "id": "1781016216949",
+    "name": "Outskirts Wall Gate Path",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 29.71,
+    "y": 87.84
+  },
+  {
+    "id": "1781016235474",
+    "name": "Outskirts Wall Stairway",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 28.96,
+    "y": 69.53
+  },
+  {
+    "id": "1781016250509",
+    "name": "Under Bridge Valley",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 18.12,
+    "y": 60.15
+  },
+  {
+    "id": "1781016263287",
+    "name": "Ashina Castle Gate Fortress",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 24.33,
+    "y": 52.18
+  },
+  {
+    "id": "1781016276288",
+    "name": "Ashina Castle Gate",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 24.94,
+    "y": 35.71
+  },
+  {
+    "id": "1781016285888",
+    "name": "Ashina Castle",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 35.2,
+    "y": 34.69
+  },
+  {
+    "id": "1781016296225",
+    "name": "Near Secret Passage",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 30.5,
+    "y": 25.89
+  },
+  {
+    "id": "1781016308836",
+    "name": "Old Grave",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 31.97,
+    "y": 54.28
+  },
+  {
+    "id": "1781016325272",
+    "name": "Upper Tower Ashina Dojo",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 36.85,
+    "y": 10.96
+  },
+  {
+    "id": "1781016337556",
+    "name": "Castle Tower Lookout",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 50.13,
+    "y": 6.75
+  },
+  {
+    "id": "1781016349841",
+    "name": "Upper Tower Antechamber",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 38.97,
+    "y": 23.4
+  },
+  {
+    "id": "1781016379925",
+    "name": "Abandoned Dungeon Entrance",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 43.28,
+    "y": 34.95
+  },
+  {
+    "id": "1781016395244",
+    "name": "Ashina Reservoir",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 38.32,
+    "y": 45.48
+  },
+  {
+    "id": "1781016433759",
+    "name": "Upper Tower Kuro`s Room",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 55.01,
+    "y": 26.4
+  },
+  {
+    "id": "1781016444009",
+    "name": "Temple Grounds",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 65.1,
+    "y": 24.17
+  },
+  {
+    "id": "1781016449598",
+    "name": "Main Hall",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 70.84,
+    "y": 19.76
+  },
+  {
+    "id": "1781016458242",
+    "name": "Inner Sanctum",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 83.26,
+    "y": 10.77
+  },
+  {
+    "id": "1781016467610",
+    "name": "Sanctuary",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 87.92,
+    "y": 23.4
+  },
+  {
+    "id": "1781016487311",
+    "name": "Bell Demon`s Temple",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 56.63,
+    "y": 34.95
+  },
+  {
+    "id": "1781016498509",
+    "name": "Underground Waterway",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 51.49,
+    "y": 48.43
+  },
+  {
+    "id": "1781016506776",
+    "name": "Bottomless Hole",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 44.46,
+    "y": 60.38
+  },
+  {
+    "id": "1781016522479",
+    "name": "Great Serpent Shrine",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 35.57,
+    "y": 65.29
+  },
+  {
+    "id": "1781016536934",
+    "name": "Under-Shrine Valley",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 39.24,
+    "y": 74.57
+  },
+  {
+    "id": "1781016544812",
+    "name": "Sunken Valley",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 46.47,
+    "y": 80.89
+  },
+  {
+    "id": "1781016550744",
+    "name": "Gun Fort",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 38.02,
+    "y": 88.55
+  },
+  {
+    "id": "1781016564029",
+    "name": "Riven Cave",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 48.28,
+    "y": 92.97
+  },
+  {
+    "id": "1781016576570",
+    "name": "Bodhisattva Valley",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 54.41,
+    "y": 87.25
+  },
+  {
+    "id": "1781016602912",
+    "name": "Greate Ape`s Watering Hole",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 67.41,
+    "y": 92.13
+  },
+  {
+    "id": "1781016620004",
+    "name": "Ashina Depths",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 48.86,
+    "y": 70.96
+  },
+  {
+    "id": "1781016628193",
+    "name": "Poison Pool",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 55.98,
+    "y": 73.85
+  },
+  {
+    "id": "1781016639355",
+    "name": "Mibu Village",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 64.4,
+    "y": 75.38
+  },
+  {
+    "id": "1781016645962",
+    "name": "Water Mill",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 71.76,
+    "y": 83.57
+  },
+  {
+    "id": "1781016656072",
+    "name": "Wedding Cave Entrance",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 82.4,
+    "y": 92.82
+  },
+  {
+    "id": "1781016667800",
+    "name": "Fountainhead Palace",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 91.12,
+    "y": 86.93
+  },
+  {
+    "id": "1781016676605",
+    "name": "Vermilion Bridge",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 88.8,
+    "y": 68.54
+  },
+  {
+    "id": "1781016695168",
+    "name": "Mibu Manor",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 80.74,
+    "y": 63.3
+  },
+  {
+    "id": "1781016703365",
+    "name": "Hidden Forest",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 71.33,
+    "y": 62.24
+  },
+  {
+    "id": "1781016718457",
+    "name": "Senpou Temple Mountain Kongo",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 58.5,
+    "y": 51.46
+  },
+  {
+    "id": "1781016735618",
+    "name": "Shugendo",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 64.87,
+    "y": 41.79
+  },
+  {
+    "id": "1781016755685",
+    "name": "Sunken Valley Cavern",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 69.06,
+    "y": 50.53
+  },
+  {
+    "id": "1781016769341",
+    "name": "Flower Viewing Stage",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 76.59,
+    "y": 49.21
+  },
+  {
+    "id": "1781016778882",
+    "name": "Great Sakura",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 87.41,
+    "y": 51.34
+  },
+  {
+    "id": "1781016786719",
+    "name": "Palace Grounds",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 83.8,
+    "y": 36.46
+  },
+  {
+    "id": "1781016795552",
+    "name": "Near Pot Noble",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 74.96,
+    "y": 36.32
+  },
+  {
+    "id": "1781016803868",
+    "name": "Feeding Grounds",
+    "type": "sculptor-idol",
+    "visited": false,
+    "x": 93.8,
+    "y": 39.69
+  },
+  {
+    "id": "1781016837904",
+    "name": "Lady Butterfly",
+    "type": "boss",
+    "visited": false,
+    "x": 12.37,
+    "y": 35.57
+  },
+  {
+    "id": "1781016842570",
+    "name": "Owl (Father)",
+    "type": "boss",
+    "visited": false,
+    "x": 7.59,
+    "y": 37.73
+  },
+  {
+    "id": "1781017229583",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 13.86,
+    "y": 50.41
+  },
+  {
+    "id": "1781017234263",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 6.68,
+    "y": 51.49
+  },
+  {
+    "id": "1781017303517",
+    "name": "Spear",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 9.37,
+    "y": 63.13
+  },
+  {
+    "id": "1781017310094",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 8.85,
+    "y": 65.18
+  },
+  {
+    "id": "1781017321167",
+    "name": "Glutton",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 8.19,
+    "y": 53.34
+  },
+  {
+    "id": "1781017325025",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 7.8,
+    "y": 55.26
+  },
+  {
+    "id": "1781017332786",
+    "name": "Glutton",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 6.7,
+    "y": 49.87
+  },
+  {
+    "id": "1781017344285",
+    "name": "Shadow",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 15.02,
+    "y": 55.52
+  },
+  {
+    "id": "1781017352220",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 15.04,
+    "y": 57.09
+  },
+  {
+    "id": "1781017366465",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 7.25,
+    "y": 62.28
+  },
+  {
+    "id": "1781017369773",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 12.16,
+    "y": 66.97
+  },
+  {
+    "id": "1781017373169",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 10.29,
+    "y": 71.12
+  },
+  {
+    "id": "1781017388687",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 20.1,
+    "y": 94.84
+  },
+  {
+    "id": "1781017394352",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 25.32,
+    "y": 76.13
+  },
+  {
+    "id": "1781017398154",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 32.43,
+    "y": 82.4
+  },
+  {
+    "id": "1781017405060",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 30.44,
+    "y": 80.6
+  },
+  {
+    "id": "1781017407687",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 29.3,
+    "y": 80.6
+  },
+  {
+    "id": "1781017416186",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 23.17,
+    "y": 68.99
+  },
+  {
+    "id": "1781017419904",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 25.13,
+    "y": 67.14
+  },
+  {
+    "id": "1781017422835",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 23.78,
+    "y": 66.7
+  },
+  {
+    "id": "1781017431071",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 21.57,
+    "y": 67.74
+  },
+  {
+    "id": "1781017435172",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 23.69,
+    "y": 62.77
+  },
+  {
+    "id": "1781017441337",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 24.43,
+    "y": 40.74
+  },
+  {
+    "id": "1781017444086",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 26.39,
+    "y": 39.98
+  },
+  {
+    "id": "1781017448705",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 20.62,
+    "y": 31.09
+  },
+  {
+    "id": "1781017460905",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 29.37,
+    "y": 61.3
+  },
+  {
+    "id": "1781017464721",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 31.45,
+    "y": 61.85
+  },
+  {
+    "id": "1781017471577",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 31.79,
+    "y": 41.4
+  },
+  {
+    "id": "1781017475823",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 32.1,
+    "y": 37.58
+  },
+  {
+    "id": "1781017478576",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 28.38,
+    "y": 34.85
+  },
+  {
+    "id": "1781017485139",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 36.76,
+    "y": 22.69
+  },
+  {
+    "id": "1781017488572",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 41.7,
+    "y": 24
+  },
+  {
+    "id": "1781017492774",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 34.43,
+    "y": 9.28
+  },
+  {
+    "id": "1781017495488",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 43.26,
+    "y": 11.41
+  },
+  {
+    "id": "1781017500629",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 42.62,
+    "y": 6.72
+  },
+  {
+    "id": "1781017506622",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 37.68,
+    "y": 36.49
+  },
+  {
+    "id": "1781017509623",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 36.7,
+    "y": 44.56
+  },
+  {
+    "id": "1781017516340",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 33.63,
+    "y": 71.55
+  },
+  {
+    "id": "1781017537158",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 46.57,
+    "y": 29.84
+  },
+  {
+    "id": "1781017547472",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 40.87,
+    "y": 78.04
+  },
+  {
+    "id": "1781017550189",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 41.33,
+    "y": 83.93
+  },
+  {
+    "id": "1781017557393",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 40.83,
+    "y": 92.81
+  },
+  {
+    "id": "1781017560057",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 42.65,
+    "y": 92.35
+  },
+  {
+    "id": "1781017562759",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 42.5,
+    "y": 95.6
+  },
+  {
+    "id": "1781017569240",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 44.17,
+    "y": 77.05
+  },
+  {
+    "id": "1781017575457",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 42.8,
+    "y": 56.8
+  },
+  {
+    "id": "1781017579259",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 41.37,
+    "y": 48.84
+  },
+  {
+    "id": "1781017583141",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 40.69,
+    "y": 44.53
+  },
+  {
+    "id": "1781017594025",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 62.88,
+    "y": 24.94
+  },
+  {
+    "id": "1781017596993",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 68.05,
+    "y": 19.88
+  },
+  {
+    "id": "1781017600292",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 65.68,
+    "y": 35.06
+  },
+  {
+    "id": "1781017621941",
+    "name": "Unknown",
+    "type": "prosthetic",
+    "visited": false,
+    "x": 62.31,
+    "y": 95.53
+  },
+  {
+    "id": "1781017626010",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 65.66,
+    "y": 80.57
+  },
+  {
+    "id": "1781017628914",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 58.27,
+    "y": 73.85
+  },
+  {
+    "id": "1781017632193",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 72.45,
+    "y": 88.51
+  },
+  {
+    "id": "1781017639242",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 69.4,
+    "y": 78.81
+  },
+  {
+    "id": "1781017643861",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 73.09,
+    "y": 80.11
+  },
+  {
+    "id": "1781017646875",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 74.64,
+    "y": 80.57
+  },
+  {
+    "id": "1781017650243",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 71.59,
+    "y": 69.5
+  },
+  {
+    "id": "1781017656358",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 76.7,
+    "y": 58.81
+  },
+  {
+    "id": "1781017659692",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 81.94,
+    "y": 56.82
+  },
+  {
+    "id": "1781017662392",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 90.01,
+    "y": 53
+  },
+  {
+    "id": "1781017670994",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 85.97,
+    "y": 36.97
+  },
+  {
+    "id": "1781017677193",
+    "name": "Unknown",
+    "type": "combat-art",
+    "visited": false,
+    "x": 72.45,
+    "y": 22.08
+  },
+  {
+    "id": "1781017703892",
+    "name": "Pumpkin Seed",
+    "type": "gourd-seed",
+    "visited": false,
+    "x": 62.2,
+    "y": 48.39
+  },
+  {
+    "id": "1781017746651",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 60.06,
+    "y": 71.4
+  },
+  {
+    "id": "1781017750394",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 61.71,
+    "y": 66.45
+  },
+  {
+    "id": "1781017754310",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 63.11,
+    "y": 66.33
+  },
+  {
+    "id": "1781017896268",
+    "name": "Ogre",
+    "type": "mini-boss",
+    "visited": false,
+    "x": 31.05,
+    "y": 40.15
+  },
+  {
+    "id": "1781017901200",
+    "name": "Prayer Beads",
+    "type": "prayer-bead",
+    "visited": false,
+    "x": 30.37,
+    "y": 41.95
+  }
+]
