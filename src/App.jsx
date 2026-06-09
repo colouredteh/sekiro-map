@@ -70,11 +70,27 @@ function Marker({ marker, onToggleVisited }) {
 function App() {
   const [init, setInit] = useState(null)
   const [transform, setTransform] = useState(null)
-  const [customMarkers, setCustomMarkers] = useState(markersData)
+  const [customMarkers, setCustomMarkers] = useState(() => {
+    const saved = localStorage.getItem('sekiro-markers')
+    if (saved) {
+      const savedMarkers = JSON.parse(saved)
+      return markersData.map(m => {
+        const s = savedMarkers.find(sm => sm.id === m.id)
+        return s ? { ...m, visited: s.visited } : m
+      })
+    }
+    return markersData
+  })
   const [imgSize, setImgSize] = useState({ w: 1, h: 1 })
   const [sideOpen, setSideOpen] = useState(false)
-  const [hiddenMarkers, setHiddenMarkers] = useState(new Set())
-  const [collapsedTypes, setCollapsedTypes] = useState(new Set())
+  const [hiddenMarkers, setHiddenMarkers] = useState(() => {
+    const saved = localStorage.getItem('sekiro-hidden')
+    return new Set(saved ? JSON.parse(saved) : [])
+  })
+  const [collapsedTypes, setCollapsedTypes] = useState(() => {
+    const saved = localStorage.getItem('sekiro-collapsed')
+    return new Set(saved ? JSON.parse(saved) : [])
+  })
   const transformRef = useRef(null)
 
   useEffect(() => {
@@ -93,6 +109,18 @@ function App() {
     }
     img.src = mapImage
   }, [])
+
+  useEffect(() => {
+    localStorage.setItem('sekiro-markers', JSON.stringify(customMarkers.map(m => ({ id: m.id, visited: m.visited }))))
+  }, [customMarkers])
+
+  useEffect(() => {
+    localStorage.setItem('sekiro-hidden', JSON.stringify([...hiddenMarkers]))
+  }, [hiddenMarkers])
+
+  useEffect(() => {
+    localStorage.setItem('sekiro-collapsed', JSON.stringify([...collapsedTypes]))
+  }, [collapsedTypes])
 
   const toggleVisited = (id) => {
     setCustomMarkers(prev => prev.map(m =>
@@ -262,6 +290,7 @@ function App() {
           <span className="side-visible">
             {visibleMarkers.length} visible
           </span>
+          <button className="side-clear" onClick={() => setCustomMarkers(prev => prev.map(m => ({ ...m, visited: false })))}>Clear</button>
           <span className="side-credit">World Map By <a href="https://www.reddit.com/r/Sekiro/comments/bi276t/sekiro_world_map_by_lucas_reiner/" target="_blank" rel="noopener noreferrer">Lucas Rainer</a></span>
         </div>
       </div>
