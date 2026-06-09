@@ -71,11 +71,11 @@ function App() {
   const [init, setInit] = useState(null)
   const [transform, setTransform] = useState(null)
   const [customMarkers, setCustomMarkers] = useState(markersData)
+  const [imgSize, setImgSize] = useState({ w: 1, h: 1 })
   const [sideOpen, setSideOpen] = useState(false)
   const [hiddenMarkers, setHiddenMarkers] = useState(new Set())
   const [collapsedTypes, setCollapsedTypes] = useState(new Set())
   const transformRef = useRef(null)
-  const imgSize = useRef({ w: 1, h: 1 })
 
   useEffect(() => {
     const img = new Image()
@@ -87,7 +87,7 @@ function App() {
       const fs = Math.min(sx, sy) * 0.95
       const cx = (vw - img.naturalWidth * fs) / 2
       const cy = (vh - img.naturalHeight * fs) / 2
-      imgSize.current = { w: img.naturalWidth, h: img.naturalHeight }
+      setImgSize({ w: img.naturalWidth, h: img.naturalHeight })
       setInit({ scale: fs, minScale: fs * 0.8, x: cx, y: cy })
       setTransform({ x: cx, y: cy, scale: fs })
     }
@@ -136,8 +136,8 @@ function App() {
     const scale = transform.scale
     const cx = window.innerWidth / 2
     const cy = window.innerHeight / 2
-    const nx = cx - (m.x / 100) * imgSize.current.w * scale
-    const ny = cy - (m.y / 100) * imgSize.current.h * scale
+    const nx = cx - (m.x / 100) * imgSize.w * scale
+    const ny = cy - (m.y / 100) * imgSize.h * scale
     transformRef.current.setTransform(nx, ny, scale, 0)
   }
 
@@ -148,8 +148,8 @@ function App() {
   const visibleMarkers = customMarkers.filter(m => !hiddenMarkers.has(m.id))
   const mappedMarkers = visibleMarkers.map(m => ({
     ...m,
-    screenX: (m.x / 100) * imgSize.current.w * transform.scale + transform.x,
-    screenY: (m.y / 100) * imgSize.current.h * transform.scale + transform.y,
+    screenX: (m.x / 100) * imgSize.w * transform.scale + transform.x,
+    screenY: (m.y / 100) * imgSize.h * transform.scale + transform.y,
   }))
 
   const totalByType = {}
